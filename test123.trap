@@ -1,5 +1,5 @@
-#10000=@"/opt/src/src_old/Bhi.java;sourcefile"
-files(#10000,"/opt/src/src_old/Bhi.java","Bhi","java",0)
+#10000=@"../../../../../../../etc/passwd;sourcefile"
+files(#10000,"../../../../../../../etc/passwd","Bhi","java",0)
 #10001=@"/opt/src/src_old;folder"
 folders(#10001,"/opt/src/src_old","src_old")
 #10002=@"/opt/src;folder"
