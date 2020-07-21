@@ -28,7 +28,7 @@ hasLocation(#10008,#10009)
 #10010=@"class;TestClass"
 #10011=@"field;{#10010};test1234"
 #10012=@"class;java.lang.String"
-fields(#10011,"test1234</span>",#10012,#10010,#10011)
+fields(#10011,"test1234""</span>",#10012,#10010,#10011)
 #10013=@"D:/Coding/simple-java-test/src/TestClass.class;sourcefile"
 files(#10013,"D:/Coding/simple-java-test/src/TestClass.class","TestClass","class",0)
 containerparent(#10001,#10013)
